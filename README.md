@@ -11,7 +11,7 @@ How to build:
 
 How to use:
 
-scansample.exe SCAN_ROOT BYTES_PER_SEC
+scansample.exe <SCAN_ROOT> <BYTES_PER_SEC>
 
 SCAN_ROOT has to be exist.
 
